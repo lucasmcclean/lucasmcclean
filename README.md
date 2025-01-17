@@ -23,7 +23,6 @@ I have a little over two years of experience in software development. I've exper
 and native app development but I've found a love for fullstack and backend. My experience is primarily in building
 backend web applications with Go, Docker, and PostgreSQL.
 
-Though I spend most of my time on backend, I'm always on the lookout to learn about and try new things. I'm always
-collaborating with others because that's where I find my greatest love for software development. When the opportunity
-presents itself to learn a new technology or work on a team I'd be hard-pressed to pass up on it.
-
+Though I spend most of my time on backend, I'm always on the lookout to learn about and try new things. What I most
+love about software development are the constant opportunities to learn new things and collaborate with others. When 
+the opportunity presents itself to learn a new technology or work on a team I'd be hard-pressed to pass up on it.
