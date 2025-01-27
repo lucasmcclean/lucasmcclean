@@ -19,7 +19,7 @@
 
 **I'm a Computer Science student with a focus on fullstack and backend systems.**
 
-I have a little over two years of experience in software development. I've experimented with game, terminal, web,
+I have a little over three years of experience in software development. I've experimented with game, terminal, web,
 and native app development but I've found a love for fullstack and backend. My experience is primarily in building
 backend web applications with Go, Docker, and PostgreSQL.
 
