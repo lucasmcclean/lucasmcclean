@@ -26,4 +26,4 @@ Feel free to reach out for collaborations or code reviews.
 > Look for opportunities to take a little bit of extra suffering upon yourself
 > in order to reduce the suffering of your users.
 >
-> — John Ousterhout
+> — John Ousterhout (A Philosophy of Software Design)
