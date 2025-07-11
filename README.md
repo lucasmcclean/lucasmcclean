@@ -1,10 +1,9 @@
 # Lucas McClean
 
 I build web applications at the UCF Techrangers using Python and JavaScript.
-In my free time, I like experimenting with backend services in Go and
-low-level tooling projects with Rust. My system runs Linux (Gentoo, Fedora,
-Arch) and I use Docker, Bash, and Neovim daily. I've also worked with Postgres
-and MongoDB.
+In my free time, I enjoy working on backend systems in Go and low-level tooling
+projects with Rust. My system runs Linux (Gentoo, Fedora, Arch) and I use
+Docker, Bash, and Neovim daily. I've also worked with Postgres and MongoDB.
 
 ## Projects Under Development
 
