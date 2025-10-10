@@ -11,9 +11,9 @@ Docker, Bash, and Neovim daily. I've also worked with Postgres and MongoDB.
     A URL shortener where you can set time-based or use-based limits.
     (In progress)
 
-- [Kitenv](https://github.com/lucasmcclean/kitenv) —
-    A cross-platform workspace manager to keep development environments
-    consistent. (In progress)
+- [TTCG](https://github.com/lucasmcclean/ttcg) —
+    A 'Terminal Trading Card Game' inspired by fastfetch/neofetch and
+    Flesh and Blood TCG.
 
 ## Get in Touch
 
