@@ -13,7 +13,7 @@ Docker, Bash, and Neovim daily. I've also worked with Postgres and MongoDB.
 
 - [TTCG](https://github.com/lucasmcclean/ttcg) —
     A 'Terminal Trading Card Game' inspired by fastfetch/neofetch and
-    Flesh and Blood TCG.
+    numerous TCGs.
 
 ## Get in Touch
 
