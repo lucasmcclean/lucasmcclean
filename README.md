@@ -7,7 +7,7 @@ Docker, Bash, and Neovim daily. I've also worked with Postgres and MongoDB.
 
 ## Projects Under Development
 
-- [LimitLink](https://github.com/lucasmcclean/xcrdtbl) —
+- [xcrdtbl](https://github.com/lucasmcclean/xcrdtbl) —
     An experimental CRDT library to try out different CRDT approaches with the
     goal of improving ergonomics and efficiency.
 
