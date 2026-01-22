@@ -1,19 +1,42 @@
 # Lucas McClean
 
-I build web applications at the UCF Techrangers using Python and JavaScript.
-In my free time, I enjoy working on backend systems in Go and low-level tooling
-projects with Rust. My system runs Linux (Gentoo, Fedora, Arch, Void) and I use
-Docker, Bash, and Neovim daily.
+Over the past ≈3 years I've worked on numerous open-source projects with teams
+of many sizes. For the last year, I've been developing and maintaining software
+serving 70,000+ students at UCF Techrangers. Much of my experience is in backend
+systems and CLI tools, but I also like to try out new things frequently. In
+several hackathons, I've worked on machine learning projects and games (my team
+actually won "Best Game" at [Knight Hacks VIII]).
 
-## Projects Under Development
+For personal projects, Rust and Go are two of my favorite languages, but I also
+frequently use Python. The challenges I most enjoy working on involve software
+architecture, API design, and balancing practical design with efficiency.
 
-- [xcrdtbl](https://github.com/lucasmcclean/xcrdtbl) —
-    An experimental CRDT library to try out different CRDT approaches with the
-    goal of improving ergonomics and efficiency.
+Right now, I'm working on [kvd] which is a key-value diffing and merging tool
+that's generic across file types. I also love researching—recently I've been
+reading about CRDTs (Conflict-Free Replicated Data Types) and some of my work
+can be seen in [xcrdtbl].
 
-- [TTCG](https://github.com/lucasmcclean/ttcg) —
-    A 'Terminal Trading Card Game' inspired by fastfetch/neofetch and
-    numerous TCGs.
+## Projects
+
+You can see all of my [in progress](
+    https://github.com/lucasmcclean?tab=repositories&q=in-progress
+) projects as well as those [on deck](
+    https://github.com/lucasmcclean?tab=repositories&q=on-deck
+) and those in the [backlog](
+    https://github.com/lucasmcclean?tab=repositories&q=backlog
+).
+
+## Tech
+
+**Languages:** Rust ∙ Go ∙ Python ∙ JavaScript ∙ C ∙ Java
+
+**Web:** Svelte ∙ Tailwind ∙ Templ
+
+**Databases:** PostgreSQL ∙ MongoDB ∙ SQLite 
+
+**Infra:** Docker ∙ AWS (Lambda, EC2, API Gateway)
+
+**Development:** Linux (Void) ∙ Tmux ∙ Nvim ∙ [dotfiles]
 
 ## Get in Touch
 
@@ -24,3 +47,8 @@ Docker, Bash, and Neovim daily.
 > in order to reduce the suffering of your users.
 >
 > — John Ousterhout (A Philosophy of Software Design)
+
+[Knight Hacks VIII]: https://github.com/lucasmcclean/project-foxtrot-black-trigger-watchtower-omega
+[kvd]: https://github.com/lucasmcclean/kvd
+[xcrdtbl]: https://github.com/lucasmcclean/xcrdtbl
+[dotfiles]: https://github.com/lucasmcclean/.dotfiles
