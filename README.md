@@ -1,18 +1,18 @@
 # Lucas McClean
 
-Over the past ≈3 years I've worked on numerous open-source projects with teams
+Over the past ≈3 years, I've worked on numerous open-source projects with teams
 of many sizes. For the last year, I've been developing and maintaining software
-serving 70,000+ students at UCF Techrangers. Much of my experience is in backend
-systems and CLI tools, but I also like to try out new things frequently. In
-several hackathons, I've worked on machine learning projects and games (my team
-actually won "Best Game" at [Knight Hacks VIII]).
+that serves 70,000+ students at UCF Techrangers. Much of my experience is in
+backend systems and CLI tools, but I also like to try new things frequently.
+In several hackathons, I've worked on ML projects and games (my team won "Best
+Game" at [Knight Hacks VIII]).
 
 For personal projects, Rust and Go are two of my favorite languages, but I also
 frequently use Python. The challenges I most enjoy working on involve software
 architecture, API design, and balancing practical design with efficiency.
 
-Right now, I'm working on [kvd] which is a key-value diffing and merging tool
-that's generic across file types. I also love researching—recently I've been
+Right now, I'm working on [kvd], a key-value diffing and merging tool
+that's generic across file types. I also love researching – recently I've been
 reading about CRDTs (Conflict-Free Replicated Data Types) and some of my work
 can be seen in [xcrdtbl].
 
