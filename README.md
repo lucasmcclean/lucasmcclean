@@ -11,10 +11,10 @@ For personal projects, Rust and Go are two of my favorite languages, but I also
 frequently use Python. The challenges I most enjoy working on involve software
 architecture, API design, and balancing practical design with efficiency.
 
-Right now, I'm working on [kvd], a key-value diffing and merging tool
-that's generic across file types. I also love researching – recently I've been
-reading about CRDTs (Conflict-Free Replicated Data Types) and some of my work
-can be seen in [xcrdtbl].
+Right now, I'm working on [eph], a CLI task manager focused on minimalism and
+fluidity with a git-based CRDT syncing engine. I also love researching –
+recently I've been reading about CRDTs (Conflict-Free Replicated Data Types)
+and some of my work can be seen in [xcrdtbl].
 
 ## Projects
 
@@ -49,6 +49,6 @@ You can see all of my [in progress](
 > — John Ousterhout (A Philosophy of Software Design)
 
 [Knight Hacks VIII]: https://github.com/lucasmcclean/project-foxtrot-black-trigger-watchtower-omega
-[kvd]: https://github.com/lucasmcclean/kvd
+[eph]: https://github.com/lucasmcclean/eph
 [xcrdtbl]: https://github.com/lucasmcclean/xcrdtbl
 [dotfiles]: https://github.com/lucasmcclean/.dotfiles
