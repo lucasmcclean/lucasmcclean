@@ -1,6 +1,6 @@
 # Lucas McClean
 
-Over the past ≈3 years, I've worked on numerous open-source projects with teams
+Over the past 3 or so years, I've worked on numerous open-source projects with teams
 of many sizes. For the last year, I've been developing and maintaining software
 that serves 70,000+ students at UCF Techrangers. Much of my experience is in
 backend systems and CLI tools, but I also like to try new things frequently.
