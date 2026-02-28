@@ -4,8 +4,7 @@ Over the past 3 or so years, I've worked on numerous open-source projects with t
 of many sizes. For the last year, I've been developing and maintaining software
 that serves 70,000+ students at UCF Techrangers. Much of my experience is in
 backend systems and CLI tools, but I also like to try new things frequently.
-In several hackathons, I've worked on ML projects and games (my team won "Best
-Game" at [Knight Hacks VIII]).
+I've won several hackathons with ML projects and games.
 
 For personal projects, Rust and Go are two of my favorite languages, but I also
 frequently use Python. The challenges I most enjoy working on involve software
