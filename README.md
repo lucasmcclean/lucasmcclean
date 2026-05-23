@@ -1,53 +1,26 @@
 # Lucas McClean
 
-Over the past 3 or so years, I've worked on numerous open-source projects with teams
-of many sizes. For the last year, I've been developing and maintaining software
-that serves 70,000+ students at UCF Techrangers. Much of my experience is in
-backend systems and CLI tools, but I also like to try new things frequently.
-I've won several hackathons with ML projects and games.
+Honors CS student at UCF – Software Developer at UCF Techrangers – Software
+Engineer Intern at Toptech Systems
 
-For personal projects, Rust and Go are two of my favorite languages, but I also
-frequently use Python. The challenges I most enjoy working on involve software
-architecture, API design, and balancing practical design with efficiency.
+At Techrangers, I've refactored a single-server setup into AWS Lambda-based chat
+handling, scaled the system from ~700 users toward university-wide support,
+modularized the application, and added tests, docs, and Docker-based test
+environments.
 
-Right now, I'm working on [eph], a CLI task manager focused on minimalism and
-fluidity with a git-based CRDT syncing engine. I also love researching –
-recently I've been reading about CRDTs (Conflict-Free Replicated Data Types)
-and some of my work can be seen in [xcrdtbl].
+I have also been working on a programming language called
+[Serin](https://github.com/lucasmcclean/serin), as a way to explore language
+design and compilers in practice. A lot of that work, and a lot of my other
+work, is informed by reading about distributed systems, language design, and
+quantum computing. Many of my other projects relate to backend systems, CRDTs,
+and developer tooling.
 
-## Projects
+My setup has gone through Fedora, Gentoo, Arch, and Void and I plan on switching
+to Nix next. Typically all I work with is a browser, a terminal, and Neovim.
 
-You can see all of my [in progress](
-    https://github.com/lucasmcclean?tab=repositories&q=in-progress
-) projects as well as those [on deck](
-    https://github.com/lucasmcclean?tab=repositories&q=on-deck
-) and those in the [backlog](
-    https://github.com/lucasmcclean?tab=repositories&q=backlog
-).
+> "Look for opportunities to take a little bit of extra suffering upon yourself
+> in order to reduce the suffering of your users." – John Ousterhout (A
+> Philosophy of Software Design)
 
-## Tech
-
-**Languages:** Rust ∙ Go ∙ Python ∙ JavaScript ∙ C ∙ Java
-
-**Web:** Svelte ∙ Tailwind ∙ Templ
-
-**Databases:** PostgreSQL ∙ MongoDB ∙ SQLite 
-
-**Infra:** Docker ∙ AWS (Lambda, EC2, API Gateway)
-
-**Development:** Linux (Void) ∙ Tmux ∙ Nvim ∙ [dotfiles]
-
-## Get in Touch
-
-- Portfolio: [mcclean.dev](https://mcclean.dev)
-- LinkedIn: [linkedin.com/in/lucasmcclean](https://www.linkedin.com/in/lucasmcclean)
-
-> Look for opportunities to take a little bit of extra suffering upon yourself
-> in order to reduce the suffering of your users.
->
-> — John Ousterhout (A Philosophy of Software Design)
-
-[Knight Hacks VIII]: https://github.com/lucasmcclean/project-foxtrot-black-trigger-watchtower-omega
-[eph]: https://github.com/lucasmcclean/eph
-[xcrdtbl]: https://github.com/lucasmcclean/xcrdtbl
-[dotfiles]: https://github.com/lucasmcclean/.dotfiles
+You can find me on [LinkedIn](https://linkedin.com/in/lucasmcclean), see more at
+[mcclean.dev](https://mcclean.dev), or reach me at lucas@mcclean.dev.
