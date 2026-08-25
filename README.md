@@ -1,7 +1,7 @@
 # Lucas McClean
 
-Honors CS student at UCF – Software Developer at UCF Techrangers – Software
-Engineer Intern at Toptech Systems
+Honors CS student at UCF – Software Developer at UCF Techrangers – Previous
+Software Engineer Intern at Toptech Systems
 
 At Techrangers, I've refactored a single-server setup into AWS Lambda-based chat
 handling, scaled the system from ~700 users toward university-wide support,
